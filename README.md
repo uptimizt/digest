@@ -11,3 +11,11 @@
 - Яндекс Почта https://bizzapps.ru/p/yandex-pochta/ 
 - ВордСтат https://bizzapps.ru/p/wordstat-yandex/
 - Викс конструктор сайтов https://bizzapps.ru/p/wix/
+
+# интересные сайты
+- PHP Portal - Дайджест свежих материалов из мира веб-разработки https://www.kobzarev.com/
+- Дайджест свежих материалов из мира WordPress https://wp-digest.ru/
+
+# другие дайджесты
+- https://github.com/mihdan/digest
+- https://gitlab.com/uptimizt/digest
