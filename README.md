@@ -5,6 +5,8 @@
 - low code https://bizzapps.ru/b/low-code/
 - Разница между программистами https://bizzapps.ru/b/raznitsa-mezhdu-programmistami-senior-middle-junior/
 - Копирайтинг: искусство интересных текстов https://bizzapps.ru/b/copywriting/
+- Тренды frontend-разработки: фреймворки, компоненты, подходы
+ https://bizzapps.ru/b/frontend-dev-trends/
 
 # сервисы и приложения для бизнеса
 - Зум https://bizzapps.ru/p/zoom/
