@@ -7,6 +7,7 @@
 - Копирайтинг: искусство интересных текстов https://bizzapps.ru/b/copywriting/
 - Тренды frontend-разработки: фреймворки, компоненты, подходы
  https://bizzapps.ru/b/frontend-dev-trends/
+ - В чем разница между WordPress, Symfony & Laravel? https://wpcraft.ru/blog/v-chem-raznicza-mezhdu-wordpress-symfony-laravel/
 
 # сервисы и приложения для бизнеса
 - Зум https://bizzapps.ru/p/zoom/
