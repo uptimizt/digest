@@ -1,6 +1,7 @@
 # digest
 
 # посты
+- Story Points — оценка задач и планирование разработки продуктов https://medium.com/bizzapps/5b1742ad454c
 - Лучшие сервисы для крауд маркетинга https://bizzapps.ru/b/rating-crowd-marketing/
 - low code https://bizzapps.ru/b/low-code/
 - Разница между программистами https://bizzapps.ru/b/raznitsa-mezhdu-programmistami-senior-middle-junior/
